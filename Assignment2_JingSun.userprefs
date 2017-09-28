@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CubeMoving.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CubeMoving.cs" Line="12" Column="53" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="20" Column="5" />
+      <File FileName="../../Week3_Inclass/Assets/Scripts/BounceyBall.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/CubeMovingRight.cs" Line="12" Column="57" />
+      <File FileName="Assets/Scripts/CubeMovingLeft.cs" Line="12" Column="57" />
+      <File FileName="Assets/Scripts/CubeMovingBack.cs" Line="12" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
